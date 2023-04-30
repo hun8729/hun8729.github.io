@@ -105,28 +105,21 @@ analytics:
 # Site Author
 author:
   name             : "Jihun Park"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/sky.jpg"
   bio              : "I'm a very hard worker"
   location         : "Republic of Korea"
   email            : "hun8729@handong.ac.kr"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/hun8729"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-       url: "https://instagram.com/"
-
+      url: "https://github.com/hun8729"
 # Site Footer
 footer:
   links:
-      # url:
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      # url: "https://github.com/hun8729"
 
 
 # Reading Files
